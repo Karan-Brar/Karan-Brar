@@ -4,7 +4,7 @@
 <br>
  <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
 <br>
-  <b>👨‍💻 Primary technologies - Java, Python and C#</b>
+  <b>👨‍💻 Primary technologies - C#, Python and Java</b>
 <br>
   <b>📨 Reach me at brarkaran938@gmail.com</b>
 <br>
