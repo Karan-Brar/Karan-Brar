@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+<img height="200" width ="200" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 👾 I like working with backend development and data...
 <br>
 🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada
