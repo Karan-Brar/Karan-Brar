@@ -10,7 +10,7 @@
 <br>
   <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-2b7b4a224/</b>
   
-  [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-Brar&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+  [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-Brar&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Karan-Brar/Karan-Brar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
