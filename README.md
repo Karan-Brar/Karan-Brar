@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /> -->
-  <b>👾 I like working with backend development and data...</b>
+  <b>👾 I like working with backend development and data - Open for any related collaborations...</b>
 <br>
  <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
 <br>
