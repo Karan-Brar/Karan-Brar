@@ -1,10 +1,14 @@
 ### Hi there 👋
-<img height="400" width ="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
-👾 I like working with backend development and data...
+<!-- <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /> -->
+  <b>👾 I like working with backend development and data.../<b>
 <br>
-🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada
+ <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
 <br>
-👨‍💻 Primary technologies - Java, Python and C#
+  <b>👨‍💻 Primary technologies - Java, Python and C#</b>
+<br>
+  <b>📨 Reach me at brarkaran938@gmail.com</b>
+<br>
+  <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-2b7b4a224/</b>
 
 <!--
 **Karan-Brar/Karan-Brar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
