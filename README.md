@@ -13,11 +13,13 @@
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="40" style="vertical-align:top; margin:20px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" alt="Django" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VS-Code" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML5" height="40" style="vertical-align:top; margin:20px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="Git" height="40" style="vertical-align:top; margin:20px">
 </p>
 <!--
 **Karan-Brar/Karan-Brar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
