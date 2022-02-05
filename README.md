@@ -3,14 +3,10 @@
   <b>👾 I like working with backend development and building solutions - Open for any related collaborations...</b>
 <br>
  <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
-<!-- <br> -->
-<!--   <b>👨‍💻 Primary technologies - C#, Python and Java</b> -->
 <br>
   <b>📨 Reach me at brarkaran938@gmail.com</b>
 <br>
   <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-2b7b4a224/</b>
-  
-<!--   [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-Brar&hide=prs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
