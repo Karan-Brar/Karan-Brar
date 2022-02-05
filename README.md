@@ -4,7 +4,7 @@
 <br>
  <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
 <br>
-  <b>👨‍💻 Primary technologies - C#, Python and Java</b>
+<!--   <b>👨‍💻 Primary technologies - C#, Python and Java</b> -->
 <br>
   <b>📨 Reach me at brarkaran938@gmail.com</b>
 <br>
@@ -12,6 +12,12 @@
   
   [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan-Brar&hide=prs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 <!--
 **Karan-Brar/Karan-Brar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
