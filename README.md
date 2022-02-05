@@ -8,7 +8,7 @@
 <br>
   <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-2b7b4a224/</b>
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="60" style="vertical-align:top; margin:20px">
