@@ -14,9 +14,7 @@
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript" height="60" style="vertical-align:top; margin:20px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" alt="Django" height="60" style="vertical-align:top; margin:20px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" alt="PostgreSQL" height="60" style="vertical-align:top; margin:20px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="80" style="vertical-align:top; margin:20px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/django.svg" alt="Django" height="60" style="vertical-align:top; margin:20px"> src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="80" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML5" height="80" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" alt="Git" height="80" style="vertical-align:top; margin:20px">
 </p>
