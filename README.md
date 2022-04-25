@@ -11,7 +11,7 @@
 ## Languages and Tools:
 <p>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" height="60" style="vertical-align:top; margin:20px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="Python" height="60" style="vertical-align:top; margin:20px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png?20200524033331" alt="Python" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="60" style="vertical-align:top; margin:20px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript" height="60" style="vertical-align:top; margin:20px">
