@@ -13,7 +13,6 @@
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" alt="C#" height="60" style="vertical-align:top; margin:30px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png?20200524033331" alt="ASP.NET" height="60" style="vertical-align:top; margin:30px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" alt="JavaScript" height="60" style="vertical-align:top; margin:30px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" alt="VueJS" height="60" style="vertical-align:top; margin:30px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="60" style="vertical-align:top; margin:30px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="60" style="vertical-align:top; margin:30px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="80" style="vertical-align:top; margin:30px">
