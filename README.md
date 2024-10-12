@@ -8,8 +8,6 @@
 <br>
   <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-web/</b>
 <br>
-  <b>🚀 Check out my portfolio at - https://www.webcraft.ca/</b>
-
 
 ## Languages and Tools:
 <p>
