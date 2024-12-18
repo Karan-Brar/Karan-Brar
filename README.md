@@ -8,6 +8,9 @@
 <br>
   <b>⚡ Connect with me on LinkedIn - https://www.linkedin.com/in/karan-brar-web/</b>
 <br>
+<br>
+  <b>💻 View my portfolio - https://karan-brar.vercel.app//</b>
+<br>
 
 ## Languages and Tools:
 <p>
