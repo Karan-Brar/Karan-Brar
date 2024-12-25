@@ -2,7 +2,7 @@
 <!-- <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" /> -->
   <b>👾 I like working with web development and building solutions - Open for any related collaborations...</b>
 <br>
- <b>🎓 Currently pursuing a diploma in Information Technology at Red River Polytech, Canada</b>
+ <b>🎓 Graduated with a diploma in Information Technology at Red River Polytech, Canada</b>
 <br>
   <b>📨 Reach me at brarkaran938@gmail.com</b>
 <br>
